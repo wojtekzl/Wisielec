@@ -9,7 +9,7 @@ Gra działa w klasycznym oknie systemu **Windows** – nie w konsoli.
 ## 🖼️ Zrzuty ekranu
 
 ### Ekran główny
-<img width="1472" height="730" alt="image" src="https://github.com/user-attachments/assets/992e4ce1-95d8-49b9-abc7-72a51531e148" />
+<img width="736" height="365" alt="image" src="https://github.com/user-attachments/assets/992e4ce1-95d8-49b9-abc7-72a51531e148" />
 
 ### Okno informacji
 <img width="604" height="322" alt="image" src="https://github.com/user-attachments/assets/a65ad62b-474e-4cb2-a2d2-4d3c4c2f8e64" />
