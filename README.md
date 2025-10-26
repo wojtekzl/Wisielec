@@ -12,11 +12,9 @@ Gra działa w klasycznym oknie systemu **Windows** – nie w konsoli.
 <img width="1472" height="730" alt="image" src="https://github.com/user-attachments/assets/992e4ce1-95d8-49b9-abc7-72a51531e148" />
 
 ### Okno informacji
-_(tu wstaw screenshot pokazujący okno z zasadami gry)_  
 <img width="604" height="322" alt="image" src="https://github.com/user-attachments/assets/a65ad62b-474e-4cb2-a2d2-4d3c4c2f8e64" />
 
 ### Ustawienia (dodawanie słów)
-_(tu wstaw screenshot pokazujący okno ustawień)_  
 <img width="567" height="583" alt="image" src="https://github.com/user-attachments/assets/f9e56c9a-f2bd-4917-9a03-66d888ed8542" />
 
 ---
