@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\00.png" />
+    <None Remove="Images\01.png" />
+    <None Remove="Images\02.png" />
+    <None Remove="Images\03.png" />
+    <None Remove="Images\04.png" />
+    <None Remove="Images\05.png" />
+    <None Remove="Images\06.png" />
+    <None Remove="Images\07.png" />
+    <None Remove="Images\08.png" />
+    <None Remove="Images\09.png" />
+    <None Remove="Images\10.png" />
+    <None Remove="Images\11.png" />
+    <None Remove="Images\info.png" />
+    <None Remove="Images\settings.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\00.png" />
+    <Resource Include="Images\01.png" />
+    <Resource Include="Images\02.png" />
+    <Resource Include="Images\03.png" />
+    <Resource Include="Images\04.png" />
+    <Resource Include="Images\05.png" />
+    <Resource Include="Images\06.png" />
+    <Resource Include="Images\07.png" />
+    <Resource Include="Images\08.png" />
+    <Resource Include="Images\09.png" />
+    <Resource Include="Images\10.png" />
+    <Resource Include="Images\11.png" />
+    <Resource Include="Images\info.png" />
+    <Resource Include="Images\settings.png" />
+  </ItemGroup>
+
+</Project>
